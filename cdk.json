@@ -17,6 +17,10 @@
     ]
   },
   "context": {
+    "baseecsprojects": {
+      "CDK_DEPLOY_ACCOUNT": "286845483821",
+      "CDK_DEPLOY_REGION": "ap-south-1"
+    },
     "@aws-cdk/aws-lambda:recognizeLayerVersion": true,
     "@aws-cdk/core:checkSecretUsage": true,
     "@aws-cdk/core:target-partitions": [
